@@ -8,10 +8,6 @@ Ao passar o mouse sobre a imagem, uma camada escura (overlay) aparece com **text
 - Texto centralizado vertical e horizontalmente.
 - Design minimalista com bordas arredondadas.
 
-## 🖥️ Tecnologias Utilizadas
-- HTML5
-- CSS3
-
 ## 🛠️ Tecnologias Utilizadas
 - **HTML5**  
 - **CSS3**
